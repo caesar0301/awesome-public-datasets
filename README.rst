@@ -255,6 +255,12 @@ ComputerNetworks
 * |OK_ICON| `Rapid7 Sonar Internet Scans <https://sonar.labs.rapid7.com/>`_
         
 * |OK_ICON| `UCSD Network Telescope, IPv4 /8 net <http://www.caida.org/projects/network_telescope/>`_
+
+ConversationalSearch
+--------------------
+
+* |OK_ICON| `RMIT Spoken Conversational Search Data Set <https://jtrippas.github.io/Spoken-Conversational-Search>`_
+* |OK_ICON| `MISC Data Set <https://www.microsoft.com/en-us/download/details.aspx?id=55594>`
     
 DataChallenges
 --------------
