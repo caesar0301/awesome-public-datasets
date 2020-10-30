@@ -1414,6 +1414,8 @@ SocialSciences
 * |OK_ICON| `World Bank Open Data <http://data.worldbank.org/>`_
         
 * |OK_ICON| `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
+
+* |OK_ICON| `GTD (Global Terrorism Database) <https://www.start.umd.edu/gtd//>`_
     
 Software
 --------
