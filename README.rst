@@ -647,6 +647,8 @@ Government
 * |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_
         
 * |OK_ICON| `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_
+
+* |OK_ICON| `Morocco, MA, <http://www.data.gov.ma/data/en/dataset/>`_
         
 * |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_
         
