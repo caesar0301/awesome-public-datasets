@@ -1427,8 +1427,6 @@ SocialSciences
         
 * |OK_ICON| `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
         
-* |OK_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
-        
 * |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
         
 * |OK_ICON| `Titanic Survival Data Set <https://www.kaggle.com/c/titanic/data>`_
@@ -1450,6 +1448,8 @@ SocialSciences
 * |OK_ICON| `World Inequality Database - The World Inequality Database (WID.world) [...] <https://wid.world>`_
         
 * |OK_ICON| `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
+
+* |OK_ICON| `GTD (Global Terrorism Database) <https://www.start.umd.edu/gtd//>`_
     
 Software
 --------
