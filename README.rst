@@ -1296,6 +1296,8 @@ SearchEngines
 * |OK_ICON| `Statista.com - statistics and Studies <http://www.statista.com/>`_
         
 * |OK_ICON| `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
+
+* |OK_ICON| `Google Dataset Search <https://toolbox.google.com/datasetsearch>`_
     
 SocialNetworks
 --------------
