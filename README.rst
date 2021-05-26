@@ -1612,5 +1612,5 @@ Complementary Collections
 
 * CV Papers: `CV Datasets on the web <http://www.cvpapers.com/datasets.html/>`_
 
-* CVonline: `Image Databases <http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm/>`_
+* CVonline: `Image Databases <http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm>`_
 
