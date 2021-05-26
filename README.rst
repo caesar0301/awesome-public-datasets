@@ -1072,7 +1072,11 @@ NaturalLanguage
 Neuroscience
 ------------
         
-* |OK_ICON| `Allen Institute Datasets <http://www.brain-map.org/>`_
+* |OK_ICON| `Allen Cell Types Database <http://celltypes.brain-map.org/>`_
+
+* |OK_ICON| `Allen Mouse Brain Connectivity Atlas <http://connectivity.brain-map.org/>`_
+
+* |OK_ICON| `Allen Brain Observatory <http://observatory.brain-map.org/>`_
         
 * |OK_ICON| `Brain Catalogue <http://braincatalogue.org/>`_
         
