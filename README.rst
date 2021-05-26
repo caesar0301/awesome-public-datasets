@@ -537,6 +537,8 @@ Government
 * |OK_ICON| `Australia (data.gov.au) <https://data.gov.au/>`_
         
 * |OK_ICON| `Austria (data.gv.at) <https://www.data.gv.at/>`_
+
+* |OK_ICON| `Barcelona, Spain <http://opendata-ajuntament.barcelona.cat/>`_
         
 * |OK_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_
         
