@@ -49,11 +49,15 @@ Biology
         
 * |OK_ICON| `American Gut (Microbiome Project) - The American Gut project is the [...] <https://github.com/biocore/American-Gut>`_
         
+* |OK_ICON| `Automatic Non-rigid Histological Image Registration (ANHIR) - ANHIR consists of 2D histological microscopy images [...] <https://anhir.grand-challenge.org/>`_
+        
 * |OK_ICON| `Broad Bioimage Benchmark Collection (BBBC) - The Broad Bioimage Benchmark [...] <https://www.broadinstitute.org/bbbc>`_
         
 * |OK_ICON| `Broad Cancer Cell Line Encyclopedia (CCLE) <http://www.broadinstitute.org/ccle/home>`_
         
 * |OK_ICON| `Cell Image Library - This library is a public and easily accessible [...] <http://www.cellimagelibrary.org>`_
+
+* |OK_ICON| `CIMA data - It includes images of 2D histological microscopy tissue slices [...] <https://cmp.felk.cvut.cz/~borovji3/?page=dataset>`_
         
 * |OK_ICON| `Complete Genomics Public Data - A diverse data set of whole human genomes [...] <http://www.completegenomics.com/public-data/69-genomes/>`_
         
